@@ -1,0 +1,1 @@
+# Cloud-Iot-Ind-stria_4.0_em_Python
